@@ -23,13 +23,6 @@ The `hcsr04` module acts as an independent hardware peripheral. It features a mi
 ### 4. Synchronized Data Pipelining
 The top-level module acts as a traffic controller, waiting for a valid distance calculation before assembling a 3-byte telemetry packet (`[0xFF Sync Byte, Angle, Distance]`). This packet is queued and fired off to the UART transmitter, ensuring the Python UI receives perfectly synchronized spatial data.
 
-## 📸 System Demonstration
-*(Upload your best hardware setup photo to the `Media` folder and link it here:)*
-![Hardware Setup](Media/setup_photo.jpg)
-
-*(Upload a short 15-30 second video showing the hardware sweeping while the Pygame radar screen updates on your monitor):*
-[Watch the System Demonstration Video Here](link-to-your-video)
-
 ## 🔌 Hardware Pinout Configuration (Arty S7 PMOD JA)
 | FPGA Pin | Interface | Component Connection |
 | :--- | :--- | :--- |
