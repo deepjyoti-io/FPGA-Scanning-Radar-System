@@ -24,17 +24,17 @@ Click any source file below to directly inspect the custom logic and software im
 Below is the real-time interaction between the physical Spartan-7 hardware array and the software visualization layer:
 
 ### Active Sweep Grid Visualization
-![Radar Sweep Interface Front Profile](Media/Photo%201.jpg)
+![Radar Sweep Interface Front Profile](Media/Photo%201.jpg.jpeg)
 
 ### Wide-Angle Hardware-in-the-Loop Setup
-![Full Desktop Radar Setup Overview](Media/Photo%202.jpg)
+![Full Desktop Radar Setup Overview](Media/Photo%202.jpg.jpeg)
 
 ### Sensor and Actuator Array Close-Up
-![HC-SR04 Sensor and SG90 Servo Assembly](Media/Photo%303.jpg)
+![HC-SR04 Sensor and SG90 Servo Assembly](Media/Photo%203.jpg.jpeg)
 
 ### 🎥 Live Video Demonstration
 *(GitHub automatically displays embedded video players for files hosted inside the repository)*
-![Live Radar Sweep Capture](Media/Video.mp4)
+![Live Radar Sweep Capture](Media/Video.mp4.mp4)
 
 ## 🚀 Key Engineering Features
 
